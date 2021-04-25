@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">MobileClientCommon</string>
+    <string name="search_str">검색</string>
+    <string name="search_guide_str">키워드를 입력하고 검색을 눌러주세요.</string>
+    <string name="search_hint_str">키워드 입력</string>
 </resources>
